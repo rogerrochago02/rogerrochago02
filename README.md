@@ -22,7 +22,8 @@ Tecnologias: Playwright, TypeScript, Node.js, Git e GitHub Actions.
 
 ### Outros projetos
 
-- [Portfolio](https://rogerrochago02.github.io/Portfolio/) — portfólio pessoal com projetos de desenvolvimento web
+- [Portfolio](https://rogerrochago02.github.io/Portfolio/) — portfólio com case de QA, automação E2E e projetos web
+- [Relatório de bugs — case QA](https://rogerrochago02.github.io/Portfolio/docs/relatorio-bugs-qa-project-template.pdf) — 17 bugs documentados em testes exploratórios
 - [CM-Life](https://rogerrochago02.github.io/clinica/) — site institucional para clínica médica
 - [Happy Lanches](https://rogerrochago02.github.io/Happy-Lanches/) — site para lanchonete
 - [Pet Boutique](https://rogerrochago02.github.io/Pet-Boutique/) — landing page para pet shop
